@@ -1,3 +1,10 @@
 /trsview/nbproject/private/
 /trsview/build/
 /trsview/dist/
+trsview/lib/CopyLibs/org-netbeans-modules-java-j2seproject-copylibstask.jar
+trsview/lib/javaee-endorsed-api-7.0/javaee-doc-api.jar
+trsview/lib/javaee-endorsed-api-7.0/jsr181-api.jar
+trsview/lib/javaee-endorsed-api-7.0/jaxws-api.jar
+trsview/lib/javaee-endorsed-api-7.0/jaxb-api-osgi.jar
+trsview/lib/javaee-endorsed-api-7.0/javax.xml.soap-api.jar
+trsview/lib/javaee-endorsed-api-7.0/javax.annotation-api.jar
